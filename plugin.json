@@ -1,0 +1,12 @@
+{
+  "name": "MiExtension",
+  "description": "Proveedor de animes desde seriesdonghua.com",
+  "version": 1,
+  "plugins": [
+    {
+      "name": "MiProvider",
+      "class": "com.miextension.MiProvider",
+      "type": "anime"
+    }
+  ]
+}
